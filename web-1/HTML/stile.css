@@ -14,6 +14,22 @@
     flex-direction: column-reverse;
     margin: 2% 0 2% 0;
 }
+#m1{
+    background-image: url(./../FOTOS/2025121530546_1.jpg);
+    background-size: cover;
+}
+#m2{
+    background-image: url(./../FOTOS/202412278542225_1.jpg);
+    background-size: cover;
+}
+#m3{
+    background-image: url(./../FOTOS/2025121529843_1.jpg);
+    background-size: cover;
+}
+#m4{
+    background-image: url(./../FOTOS/20251313445092_1.jpg);
+    background-size: cover;
+}
 img{
     max-width: 100%;
 }
