@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+VN:wght@100..400&display=swap');
+*{
+    font-family: "Montserrat";
+    font-weight: 300;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Playwrite VN";
+    font-weight: 200;
+}
