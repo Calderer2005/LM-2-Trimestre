@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Peralta&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Peralta display;
+}
+.container {  display: grid;
+    grid-template-columns: 1fr 0.8fr 1.8fr 0.8fr 0.8fr 0.8fr 1fr;
+    grid-template-rows: 0.8fr 1.3fr 0.8fr 1.1fr 2.1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+  }
+  
+  .sct1 { grid-area: 1 / 1 / 4 / 8; }
+  
+  .sct2 { grid-area: 4 / 1 / 5 / 8; }
+  
+  .sct3 { grid-area: 5 / 1 / 6 / 8; }
+  
+  .Rivals { grid-area: 2 / 1 / 3 / 8; }
+  
+  .txt { grid-area: 2 / 3 / 3 / 6; }
+  
+  .adam { grid-area: 5 / 4 / 6 / 7; }
+  
+  .adam2 { grid-area: 5 / 2 / 6 / 4; }
+  
+  
